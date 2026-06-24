@@ -106,7 +106,7 @@ def main():
             print("Port 443 (HTTPS) : OPEN")
 
             observations.append(
-                "Port 443 is accessible and HTTPS services appear available."
+                "Port 443 is accessible."
             )
 
             score += 20
