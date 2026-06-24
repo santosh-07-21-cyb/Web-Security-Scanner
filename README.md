@@ -29,3 +29,17 @@ pip install -r requirements.txt
 python3 security_scanner.py
 ```
 
+## Sample Output
+
+### Google Scan
+
+![Google Scan](screenshots/google.png)
+
+### GitHub Scan
+
+![GitHub Scan](screenshots/github.png)
+
+### TryHackMe Scan
+
+![TryHackMe Scan](screenshots/tryhackme.png)
+
